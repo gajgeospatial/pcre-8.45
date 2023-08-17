@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcre", "pcre.vcxproj", "{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcrecpp", "pcrecpp.vcxproj", "{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B} = {097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0C25F8-D501-34D7-9213-8B5ADA4A9762}
+	EndGlobalSection
+EndGlobal

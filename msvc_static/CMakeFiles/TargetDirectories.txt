@@ -1,0 +1,12 @@
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcre.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcretest.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcrecpp_unittest.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcreposix.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcrecpp.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcregrep.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcre_scanner_unittest.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/pcre_stringpiece_unittest.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/pcre-8.45/msvc_static/CMakeFiles/ZERO_CHECK.dir

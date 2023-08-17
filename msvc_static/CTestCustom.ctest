@@ -1,0 +1,4 @@
+# This is a generated file.
+MESSAGE("When testing is complete, review test output in the
+\"N:/Development/Dev_Base/pcre-8.45/msvc_static/Testing/Temporary\" folder.")
+MESSAGE(" ")
