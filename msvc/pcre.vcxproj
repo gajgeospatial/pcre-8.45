@@ -206,7 +206,7 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>$(OutDir)pcred.lib</ImportLibrary>
+      <ImportLibrary>$(OutDir)pcre.lib</ImportLibrary>
       <ProgramDataBaseFile>$(OutDir)$(TargetName).pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>

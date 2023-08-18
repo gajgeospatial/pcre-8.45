@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcrecpp", "pcrecpp.vcxproj"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		vs2019_Debug|x64 = vs2019_Debug|x64
+		vs2019_Release|x64 = vs2019_Release|x64
+		vs2022_Debug|x64 = vs2022_Debug|x64
+		vs2022_Release|x64 = vs2022_Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{07CF473E-3E5B-3A26-9159-0FDF42F10EA0}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
