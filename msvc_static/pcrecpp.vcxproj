@@ -384,18 +384,6 @@
     <ClCompile Include="..\pcre_scanner.cc" />
     <ClCompile Include="..\pcre_stringpiece.cc" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include=".\ZERO_CHECK.vcxproj">
-      <Project>{883242A5-EEAE-35F5-90FD-3E43B5AA71CF}</Project>
-      <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-    <ProjectReference Include=".\pcre.vcxproj">
-      <Project>{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}</Project>
-      <Name>pcre</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

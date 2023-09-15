@@ -6,7 +6,3 @@ N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/pcrecpp.dir
 N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/pcregrep.dir
 N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/pcre_scanner_unittest.dir
 N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/pcre_stringpiece_unittest.dir
-N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/RUN_TESTS.dir
-N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/INSTALL.dir
-N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/ALL_BUILD.dir
-N:/Development/Dev_Base/pcre-8.45/msvc/CMakeFiles/ZERO_CHECK.dir
