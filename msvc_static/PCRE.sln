@@ -11,24 +11,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcrecpp", "pcrecpp.vcxproj"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		vs2019_Debug|x64 = vs2019_Debug|x64
-		vs2019_Release|x64 = vs2019_Release|x64
 		vs2022_Debug|x64 = vs2022_Debug|x64
 		vs2022_Release|x64 = vs2022_Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
 		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
 		{097ACDC6-089E-3F4D-BBB4-00B7DD965C8B}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
-		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
 		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{4B28B413-DCE8-3A52-A332-4621EEA7A7E3}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
